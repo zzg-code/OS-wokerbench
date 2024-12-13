@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/OS_wokerbench.dir/main.cpp.o -o OS_wokerbench 

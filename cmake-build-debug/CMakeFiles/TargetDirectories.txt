@@ -1,0 +1,3 @@
+/tmp/tmp.d1TliMJTPL/cmake-build-debug/CMakeFiles/OS_wokerbench.dir
+/tmp/tmp.d1TliMJTPL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.d1TliMJTPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

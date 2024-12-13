@@ -6,7 +6,7 @@
 
 struct  co{
     std::string name;
-    std::function<void(void*)> fn;
+    std::function<void(void*)> fptr;
     void* args;
 
 };
